@@ -1,3 +1,3 @@
 # geotweetcollections.github.io
 
-![MAP](img/map.png)
+![Lab2_Map ](assets/img/map.png)
